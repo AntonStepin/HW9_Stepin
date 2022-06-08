@@ -21,6 +21,6 @@ void NumberFromTo(int FromM, int ToN)
     }
 }
 
-int From = 1;
-int To = 5;
+int From = - 5;
+int To = -1;
 NumberFromTo(From, To);
